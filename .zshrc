@@ -99,6 +99,7 @@ source $ZSH/oh-my-zsh.sh
 #
 # Example aliases
 alias zshconfig="vim ~/.zshrc"
+alias wallp="feh --bg-scale ~/wallpaper/*"
 alias wetter="curl wttr.in/Laichingen"
 alias bild="~/.screenlayout/Bildschirm.sh"
 alias dwmb="sudo cp ~/.config/dwm/config.def.h ~/.config/dwm/def.bckp && sudo cp ~/.config/dwm/config.h ~/.config/dwm/h.bckp && sudo cp ~/.config/dwm/dwm.c ~/.config/dwm/c.bckp"
