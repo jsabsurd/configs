@@ -8,7 +8,8 @@ export ZSH="$HOME/.oh-my-zsh"
 # load a random theme each time oh-my-zsh is loaded, in which case,
 # to know which specific one was loaded, run: echo $RANDOM_THEME
 # See https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
-ZSH_THEME="robbyrussell"
+ZSH_THEME="crunch"
+# agnoster, cloud, crunch
 
 # Set list of themes to pick from when loading at random
 # Setting this variable when ZSH_THEME=random will cause zsh to load
@@ -110,11 +111,11 @@ alias batpro="upower -i $(upower -e | grep 'BAT') | grep -E "percentage""
 # alias batstat="upower -i $(upower -e | grep 'BAT') | grep -E "state|to\ full|percentage""
 alias karte="telnet mapscii.me"
 alias ohmyzsh="vim ~/.oh-my-zsh"
-alias updatepac="sudo pacman -Syu"
-alias updatefull="sudo pacman -Syyuu"
-alias updateyay="yay -Syu"
-alias updateyayfull="yay -Syyuu"
-
+alias up="sudo pacman -Syu"
+alias upf="sudo pacman -Syyuu"
+alias uy="yay -Syu"
+alias uyf="yay -Syyuu"
+alias rat="sudo pacman -S"
 # >>> juliaup initialize >>>
 
 # !! Contents within this block are managed by juliaup !!

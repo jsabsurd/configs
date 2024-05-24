@@ -1,5 +1,6 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =0
+let g:netrw_dirhistcnt =1
+let g:netrw_dirhist_1='/home/johnny/.oh-my-zsh'
 let g:netrw_dirhist_0='/home/johnny/.vim/plugged/lightline.vim'
 let g:netrw_dirhist_9='/home/johnny/.vim/plugged'
 let g:netrw_dirhist_8='/home/johnny/.vim'
@@ -9,4 +10,3 @@ let g:netrw_dirhist_5='/home/johnny/Documents/uni/WS'
 let g:netrw_dirhist_4='/home/johnny/Documents/uni'
 let g:netrw_dirhist_3='/home/johnny/.vim/autoload'
 let g:netrw_dirhist_2='/home/johnny/.vim'
-let g:netrw_dirhist_1='/home/johnny/.vim/plugged/limelight.vim/autoload'
