@@ -1,0 +1,30 @@
+[[Philosophie]]
+- nothing is good or bad (objective events)
+	-  it is what we made it mean
+- journaling is for yourself, to become who you are
+- "Tell yourself that the people i deal with today will be ungrateful, arrogant, dishonest, jealous, because they cant tell good from evil" ~ Marcus Aurelius
+- "a healthy mind should be prepared for everything" ~ Marcus Aurelius
+- "we should put our angry thoughts on the paper, leave them there, rather than projecting them or hurting other people"
+- "we should learn them, so that words become work" ~ Seneca
+- "ask yourself every moment, is this necessery?" ~ Marcus Aurelius
+- "We dont learn from the experience, but from reflecting on experience" ~ John Dewey
+- weniger im Kopf sein, mehr im hier und jetzt
+- "if we stop learning, we stop living"
+- "zu neuen Ufern lockt ein neuer Tag" ~ Goethe
+- "He was sent to prison. But the Observations he has suffered exvil, than addition coming from you" ~ Epictetus
+- "no man steps in the same river twice" ~ Heraclitus (the river changed and the man too)
+- our rational nature moves forward when:
+	- we accept nothing false or uncertain
+	- we direct our impulse only to act for the common good
+	- we limit our desires only to whats in our own power
+	- embrace everything nature assigns to
+		~ Marcus Aurelius
+- set the standards for habits low, really low
+- identify as the person who you want to be
+- the best time to plant a tree is twenty years ago, but when is the second best time? its now
+- trying is enough
+- youtube etc. not optimal for relaxing, find other things that you enjoy doing
+- be early by things (and prepared)
+- easy wins at the beginning are important
+- reward your efforts, not outcomes
+- Acknowledge and count your wins
