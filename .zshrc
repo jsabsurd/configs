@@ -118,6 +118,7 @@ alias upf="sudo pacman -Syyuu"
 alias uy="yay -Syu"
 alias uyf="yay -Syyuu"
 alias rat="sudo pacman -S"
+alias bild="sudo ~/ressources/bild.sh"
 # >>> juliaup initialize >>>
 
 # !! Contents within this block are managed by juliaup !!
